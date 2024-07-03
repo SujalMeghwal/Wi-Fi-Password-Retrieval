@@ -50,11 +50,8 @@ python wifi_password.py
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## Contact
-If you have any questions or inquiries, please feel free to contact me: sujalmeghwal744@gmail.com
+## Support
 
-Email: sujalmeghwal744@gmail.com
+Thanks for visiting my repository! If you find my work useful, please consider buying me a coffee to support my future projects.
 
-Follow on [Twitter](https://twitter.com/Security_Sphinx)
-
-Follow on For new artical [Medium](https://medium.com/@security-sphinx)
+<a href="https://buymeacoffee.com/reek_elderblood?new=1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
